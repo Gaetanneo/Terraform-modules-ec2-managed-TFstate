@@ -77,4 +77,4 @@ To Create an ec2 in the dev environment, switch to the dev workspace with the co
 
 repeat the same steps to create a new instance in a separate workspace, granted the ${workspace}.tfvars file exist in the project root directory
 
-##Happy Leaning##
+##Happy Learning##
